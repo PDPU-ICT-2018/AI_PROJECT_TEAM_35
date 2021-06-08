@@ -13,6 +13,6 @@ Our project is aimed at addressing the stock prediction problem for predicting t
 
 3.	After step 2, run DATA_PREP_STEP.ipynb file. It contains train(70%) test(30%) splitting of data to train our LSTM model.
 
-4.	After step 3, run BAYESIAN_NEW_MODEL.ipynb file. It contains loading and inputting the data into our LSTM model using the Bayesian to find the best activation function for our model.
+4.	After step 3, run BAYESIAN_NEW_MODEL.ipynb file. It contains loading and inputting the data into our LSTM model using the Bayesian to tune our hyperparameters for better results.
 
-5.	After getting the results from the above step, run FINAL_AI_MODEL_150.ipynb file. Now execute the final Bidirectional LSTM model and plot the result i.e. the predicted vs the real price of stock.
+5.	After getting the results from the above step, run FINAL_AI_MODEL_150.ipynb file . Now execute the final Bidirectional LSTM model and plot the result i.e. the predicted vs the real price of stock.
